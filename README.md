@@ -1,7 +1,7 @@
 ### knilch0r.
 
-![knilch0r github stats](https://github-readme-stats.vercel.app/api?username=knilch0r)
-![knilch0r top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knilch0r&hide=java)
+![knilch0r github stats](https://github-readme-stats.vercel.app/api?username=knilch0r&layout=compact)
+![knilch0r top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knilch0r&hide=java&layout=compact)
 
 <!--
 **knilch0r/knilch0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
